@@ -3512,9 +3512,50 @@ section.lazy-placeholder:after {
 .cid-rjMh47um3L .media-container-row .mbr-text {
   color: #767676;
 }
-.cid-rjXJxQWH9Y {
+.cid-rEqQrEuc9q {
   padding-top: 120px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rEqQrEuc9q .card-box {
+  padding: 0 2rem;
+}
+.cid-rEqQrEuc9q .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rEqQrEuc9q .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rEqQrEuc9q h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rEqQrEuc9q p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rEqQrEuc9q .mbr-text {
+  color: #767676;
+}
+.cid-rEqQrEuc9q .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rEqQrEuc9q .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rjXJxQWH9Y {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rjXJxQWH9Y .card-box {
